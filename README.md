@@ -253,8 +253,9 @@ These insights can help Blinkit optimize pricing strategies, inventory managemen
 
 ---
 
-## Project Structure
+## Repository Structure
 
+```text
 blinkit-sales-profitability-analysis/
 
 ├── README.md
@@ -266,7 +267,7 @@ blinkit-sales-profitability-analysis/
     ├── top_10_products_by_revenue.png
     ├── total_profit_by_category.png
     └── total_revenue_by_category.png
-
+```
 ## Author
 
 **Nirmal Rathod**
