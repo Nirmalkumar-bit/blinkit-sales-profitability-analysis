@@ -255,19 +255,17 @@ These insights can help Blinkit optimize pricing strategies, inventory managemen
 
 ## Project Structure
 
-```text
-Blinkit-Sales-Profitability-Analysis/
-│
-├── Blinkit_Analysis.ipynb
-├── blinkit_dataset.csv
-├── images/
-│   ├── revenue_by_category.png
-│   ├── top_products_revenue.png
-│   ├── profit_by_category.png
-│   └── correlation_heatmap.png
-├── README.md
+blinkit-sales-profitability-analysis/
 
-```
+├── README.md
+├── blinkit_sales_profitability_analysis.ipynb
+├── blinkit_dataset.csv
+└── images/
+    ├── average_revenue_by_discount.png
+    ├── correlation_heatmap.png
+    ├── top_10_products_by_revenue.png
+    ├── total_profit_by_category.png
+    └── total_revenue_by_category.png
 
 ## Author
 
